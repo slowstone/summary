@@ -1,0 +1,6 @@
+# Simulation output time: start end
+0 300
+# Process info: pid, r, C, D, T
+1 0 3 9 9
+2 0 4 10 10
+3 0 5 15 15

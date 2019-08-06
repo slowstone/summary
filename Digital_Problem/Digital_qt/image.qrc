@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/imsrc">
+        <file>src/10.png</file>
+        <file>src/11.png</file>
+        <file>src/12.png</file>
+        <file>src/13.png</file>
+        <file>src/14.png</file>
+        <file>src/15.png</file>
+        <file>src/0.png</file>
+        <file>src/1.png</file>
+        <file>src/2.png</file>
+        <file>src/3.png</file>
+        <file>src/4.png</file>
+        <file>src/5.png</file>
+        <file>src/6.png</file>
+        <file>src/7.png</file>
+        <file>src/8.png</file>
+        <file>src/9.png</file>
+        <file>src/ico.ico</file>
+    </qresource>
+</RCC>

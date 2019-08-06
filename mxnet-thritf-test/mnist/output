@@ -1,0 +1,126 @@
+[10:44:13] src/operator/nn/./cudnn/./cudnn_algoreg-inl.h:107: Running performance tests to find the best convolution algorithm, this can take a while... (setting env variable MXNET_CUDNN_AUTOTUNE_DEFAULT to 0 to disable)
+INFO:root:Epoch[0] Batch [10]	Speed: 124174.86 samples/sec	accuracy=0.517818
+INFO:root:Epoch[0] Batch [20]	Speed: 119842.05 samples/sec	accuracy=0.804800
+INFO:root:Epoch[0] Batch [30]	Speed: 127460.10 samples/sec	accuracy=0.887600
+INFO:root:Epoch[0] Batch [40]	Speed: 130285.40 samples/sec	accuracy=0.935200
+INFO:root:Epoch[0] Batch [50]	Speed: 132508.06 samples/sec	accuracy=0.942200
+INFO:root:Epoch[0] Batch [60]	Speed: 130259.51 samples/sec	accuracy=0.954400
+INFO:root:Epoch[0] Batch [70]	Speed: 129885.17 samples/sec	accuracy=0.957800
+INFO:root:Epoch[0] Batch [80]	Speed: 128880.23 samples/sec	accuracy=0.964200
+INFO:root:Epoch[0] Batch [90]	Speed: 138695.03 samples/sec	accuracy=0.964000
+INFO:root:Epoch[0] Batch [100]	Speed: 135484.56 samples/sec	accuracy=0.963000
+INFO:root:Epoch[0] Batch [110]	Speed: 134690.11 samples/sec	accuracy=0.972000
+INFO:root:Epoch[0] Train-accuracy=0.981778
+INFO:root:Epoch[0] Time cost=0.571
+INFO:root:Epoch[0] Validation-accuracy=0.974600
+INFO:root:Epoch[1] Batch [10]	Speed: 139341.02 samples/sec	accuracy=0.976909
+INFO:root:Epoch[1] Batch [20]	Speed: 140107.16 samples/sec	accuracy=0.974600
+INFO:root:Epoch[1] Batch [30]	Speed: 139182.88 samples/sec	accuracy=0.974200
+INFO:root:Epoch[1] Batch [40]	Speed: 136496.90 samples/sec	accuracy=0.978600
+INFO:root:Epoch[1] Batch [50]	Speed: 133078.15 samples/sec	accuracy=0.982000
+INFO:root:Epoch[1] Batch [60]	Speed: 131437.56 samples/sec	accuracy=0.976600
+INFO:root:Epoch[1] Batch [70]	Speed: 138194.18 samples/sec	accuracy=0.979800
+INFO:root:Epoch[1] Batch [80]	Speed: 134584.66 samples/sec	accuracy=0.982600
+INFO:root:Epoch[1] Batch [90]	Speed: 137991.41 samples/sec	accuracy=0.983400
+INFO:root:Epoch[1] Batch [100]	Speed: 139097.95 samples/sec	accuracy=0.977600
+INFO:root:Epoch[1] Batch [110]	Speed: 138950.49 samples/sec	accuracy=0.980400
+INFO:root:Epoch[1] Train-accuracy=0.987111
+INFO:root:Epoch[1] Time cost=0.439
+INFO:root:Epoch[1] Validation-accuracy=0.982700
+INFO:root:Epoch[2] Batch [10]	Speed: 135559.00 samples/sec	accuracy=0.986000
+INFO:root:Epoch[2] Batch [20]	Speed: 128778.93 samples/sec	accuracy=0.982600
+INFO:root:Epoch[2] Batch [30]	Speed: 136171.63 samples/sec	accuracy=0.983000
+INFO:root:Epoch[2] Batch [40]	Speed: 135643.17 samples/sec	accuracy=0.984200
+INFO:root:Epoch[2] Batch [50]	Speed: 139070.28 samples/sec	accuracy=0.987600
+INFO:root:Update[301]: Change learning rate to 1.00000e-02
+INFO:root:Epoch[2] Batch [60]	Speed: 138602.44 samples/sec	accuracy=0.981600
+INFO:root:Epoch[2] Batch [70]	Speed: 139179.19 samples/sec	accuracy=0.982400
+INFO:root:Epoch[2] Batch [80]	Speed: 131143.31 samples/sec	accuracy=0.982600
+INFO:root:Epoch[2] Batch [90]	Speed: 131413.68 samples/sec	accuracy=0.987200
+INFO:root:Epoch[2] Batch [100]	Speed: 134026.45 samples/sec	accuracy=0.981800
+INFO:root:Epoch[2] Batch [110]	Speed: 136519.11 samples/sec	accuracy=0.988200
+INFO:root:Epoch[2] Train-accuracy=0.990889
+INFO:root:Epoch[2] Time cost=0.445
+INFO:root:Epoch[2] Validation-accuracy=0.989100
+INFO:root:Epoch[3] Batch [10]	Speed: 137501.03 samples/sec	accuracy=0.989636
+INFO:root:Epoch[3] Batch [20]	Speed: 134727.32 samples/sec	accuracy=0.987200
+INFO:root:Epoch[3] Batch [30]	Speed: 134137.89 samples/sec	accuracy=0.991000
+INFO:root:Epoch[3] Batch [40]	Speed: 125704.42 samples/sec	accuracy=0.991600
+INFO:root:Epoch[3] Batch [50]	Speed: 128692.79 samples/sec	accuracy=0.993600
+INFO:root:Epoch[3] Batch [60]	Speed: 131058.08 samples/sec	accuracy=0.992200
+INFO:root:Epoch[3] Batch [70]	Speed: 129318.12 samples/sec	accuracy=0.989600
+INFO:root:Epoch[3] Batch [80]	Speed: 124878.79 samples/sec	accuracy=0.990800
+INFO:root:Epoch[3] Batch [90]	Speed: 132256.52 samples/sec	accuracy=0.989600
+INFO:root:Epoch[3] Batch [100]	Speed: 132259.86 samples/sec	accuracy=0.984800
+INFO:root:Epoch[3] Batch [110]	Speed: 120966.74 samples/sec	accuracy=0.989400
+INFO:root:Epoch[3] Train-accuracy=0.992889
+INFO:root:Epoch[3] Time cost=0.461
+INFO:root:Epoch[3] Validation-accuracy=0.989300
+INFO:root:Epoch[4] Batch [10]	Speed: 137946.93 samples/sec	accuracy=0.990000
+INFO:root:Epoch[4] Batch [20]	Speed: 135588.80 samples/sec	accuracy=0.987000
+INFO:root:Epoch[4] Batch [30]	Speed: 135798.64 samples/sec	accuracy=0.991600
+INFO:root:Epoch[4] Batch [40]	Speed: 122628.99 samples/sec	accuracy=0.992400
+INFO:root:Epoch[4] Batch [50]	Speed: 134911.06 samples/sec	accuracy=0.993800
+INFO:root:Epoch[4] Batch [60]	Speed: 130997.50 samples/sec	accuracy=0.992000
+INFO:root:Epoch[4] Batch [70]	Speed: 138084.99 samples/sec	accuracy=0.990400
+INFO:root:Epoch[4] Batch [80]	Speed: 130756.55 samples/sec	accuracy=0.991200
+INFO:root:Epoch[4] Batch [90]	Speed: 131788.60 samples/sec	accuracy=0.990000
+INFO:root:Epoch[4] Batch [100]	Speed: 136292.87 samples/sec	accuracy=0.985600
+INFO:root:Epoch[4] Batch [110]	Speed: 132492.15 samples/sec	accuracy=0.989400
+INFO:root:Epoch[4] Train-accuracy=0.993333
+INFO:root:Epoch[4] Time cost=0.453
+INFO:root:Epoch[4] Validation-accuracy=0.989700
+INFO:root:Update[601]: Change learning rate to 1.00000e-03
+INFO:root:Epoch[5] Batch [10]	Speed: 136929.14 samples/sec	accuracy=0.991273
+INFO:root:Epoch[5] Batch [20]	Speed: 121745.53 samples/sec	accuracy=0.987800
+INFO:root:Epoch[5] Batch [30]	Speed: 132650.54 samples/sec	accuracy=0.991600
+INFO:root:Epoch[5] Batch [40]	Speed: 136515.56 samples/sec	accuracy=0.992000
+INFO:root:Epoch[5] Batch [50]	Speed: 140371.62 samples/sec	accuracy=0.994600
+INFO:root:Epoch[5] Batch [60]	Speed: 134111.30 samples/sec	accuracy=0.992000
+INFO:root:Epoch[5] Batch [70]	Speed: 135819.75 samples/sec	accuracy=0.990200
+INFO:root:Epoch[5] Batch [80]	Speed: 138454.21 samples/sec	accuracy=0.991000
+INFO:root:Epoch[5] Batch [90]	Speed: 123550.11 samples/sec	accuracy=0.991000
+INFO:root:Epoch[5] Batch [100]	Speed: 129676.36 samples/sec	accuracy=0.987000
+INFO:root:Epoch[5] Batch [110]	Speed: 130588.01 samples/sec	accuracy=0.991000
+INFO:root:Epoch[5] Train-accuracy=0.994444
+INFO:root:Epoch[5] Time cost=0.455
+INFO:root:Epoch[5] Validation-accuracy=0.989700
+INFO:root:Epoch[6] Batch [10]	Speed: 139044.46 samples/sec	accuracy=0.990182
+INFO:root:Epoch[6] Batch [20]	Speed: 138555.74 samples/sec	accuracy=0.988400
+INFO:root:Epoch[6] Batch [30]	Speed: 138874.12 samples/sec	accuracy=0.992400
+INFO:root:Epoch[6] Batch [40]	Speed: 140640.85 samples/sec	accuracy=0.992400
+INFO:root:Epoch[6] Batch [50]	Speed: 142236.69 samples/sec	accuracy=0.994600
+INFO:root:Epoch[6] Batch [60]	Speed: 142406.68 samples/sec	accuracy=0.992200
+INFO:root:Epoch[6] Batch [70]	Speed: 137295.79 samples/sec	accuracy=0.990400
+INFO:root:Epoch[6] Batch [80]	Speed: 139179.19 samples/sec	accuracy=0.991800
+INFO:root:Epoch[6] Batch [90]	Speed: 139129.33 samples/sec	accuracy=0.991000
+INFO:root:Epoch[6] Batch [100]	Speed: 138666.60 samples/sec	accuracy=0.987400
+INFO:root:Epoch[6] Batch [110]	Speed: 131576.10 samples/sec	accuracy=0.990400
+INFO:root:Epoch[6] Train-accuracy=0.994444
+INFO:root:Epoch[6] Time cost=0.433
+INFO:root:Epoch[6] Validation-accuracy=0.990000
+INFO:root:Epoch[7] Batch [10]	Speed: 139941.68 samples/sec	accuracy=0.991273
+INFO:root:Epoch[7] Batch [20]	Speed: 138248.84 samples/sec	accuracy=0.988800
+INFO:root:Epoch[7] Batch [30]	Speed: 142217.40 samples/sec	accuracy=0.992600
+INFO:root:Epoch[7] Batch [40]	Speed: 136311.47 samples/sec	accuracy=0.992600
+INFO:root:Epoch[7] Batch [50]	Speed: 136317.67 samples/sec	accuracy=0.994200
+INFO:root:Update[901]: Change learning rate to 1.00000e-04
+INFO:root:Epoch[7] Batch [60]	Speed: 133362.50 samples/sec	accuracy=0.992200
+INFO:root:Epoch[7] Batch [70]	Speed: 132130.70 samples/sec	accuracy=0.990800
+INFO:root:Epoch[7] Batch [80]	Speed: 137648.14 samples/sec	accuracy=0.991800
+INFO:root:Epoch[7] Batch [90]	Speed: 134363.06 samples/sec	accuracy=0.991000
+INFO:root:Epoch[7] Batch [100]	Speed: 119664.94 samples/sec	accuracy=0.986800
+INFO:root:Epoch[7] Batch [110]	Speed: 132131.53 samples/sec	accuracy=0.990400
+INFO:root:Epoch[7] Train-accuracy=0.994222
+INFO:root:Epoch[7] Time cost=0.463
+INFO:root:Epoch[7] Validation-accuracy=0.990000
+train
+label num: 60000
+image num: 60000
+image rows: 28
+image cols: 28
+t10k
+label num: 10000
+image num: 10000
+image rows: 28
+image cols: 28
